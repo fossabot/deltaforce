@@ -60,4 +60,8 @@ ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 ## 打赏
 
-![扫码打赏](https://cdn.jsdelivr.net/gh/coolxitech/coolxitech/rewarding.png)
+![扫码打赏](https://cdn.jsdelivr.net/gh/coolxitech/coolxitech/rewarding.png)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoolxitech%2Fdeltaforce.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoolxitech%2Fdeltaforce?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoolxitech%2Fdeltaforce.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoolxitech%2Fdeltaforce?ref=badge_large)
